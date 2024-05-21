@@ -1,14 +1,21 @@
-# get-grass
+# Get-grass Proxy Farming
 
-edit account in /file/account.txt
 
-edit proxy in /file/proxy.txt
+Edit accounts in `/file/account.txt`
 
-Account format : username:password:ID
+Edit proxies in `/file/proxy.txt`
+#
+Account format          : `username:password:ID`
 
-Proxy format (sock5) ：ip:port username password
+Proxy format (sock5)    ：`ip:port username password`
+#
 
-# change ""
+**Running script:**
 
-node index.js "amount of proxy used" "group name"
-ex: node index.js 10 account1
+```bash
+  node index.js "amount of proxy used" "group name"
+```
+```bash
+  example: node index.js 10 account1
+```
+
