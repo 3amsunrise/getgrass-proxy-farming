@@ -11,7 +11,7 @@ Proxy format (sock5)    ：`ip:port username password`
 #
 How to get UserID?
 
-1.go to https://app.getgrass.io/dashboard
+1. go to https://app.getgrass.io/dashboard
 
 2. press F12, go to console
    
