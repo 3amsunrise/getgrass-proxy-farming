@@ -16,6 +16,7 @@ How to get UserID?
 2. press F12, go to console
    
 3. type `localStorage.getItem('userId')`
+#
 
 **Running script:**
 
