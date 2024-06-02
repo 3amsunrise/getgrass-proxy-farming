@@ -108,7 +108,6 @@ async function main() {
                 }
             }
         });
-
     program.parse(process.argv);
 }
 
