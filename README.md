@@ -27,3 +27,10 @@ How to get UserID?
   example: node index.js 10 account1
 ```
 
+```mermaid
+graph LR
+A[a] ----> B((b))
+A ----> C(c)
+B --> D{d}
+C --> D
+```
